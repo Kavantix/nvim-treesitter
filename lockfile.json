@@ -90,7 +90,7 @@
     "revision": "f0f2f100952a353e64e26b0fa710b4c296d7af13"
   },
   "fusion": {
-    "revision": "19db2f47ba4c3a0f6238d4ae0e2abfca16e61dd6"
+    "revision": "fatal: unable to access 'https://gitlab.com/jirgn/tree-sitter-fusion.git/': The requested URL returned error: 503"
   },
   "gdscript": {
     "revision": "2a6abdaa47fcb91397e09a97c7433fd995ea46c6"
@@ -162,7 +162,7 @@
     "revision": "5dd5cdc418d9659682556b6adca2dd9ace0ac6d2"
   },
   "jsonc": {
-    "revision": "02b01653c8a1c198ae7287d566efa86a135b30d5"
+    "revision": "fatal: unable to access 'https://gitlab.com/WhyNotHugo/tree-sitter-jsonc.git/': The requested URL returned error: 503"
   },
   "julia": {
     "revision": "fc60b7cce87da7a1b7f8cb0f9371c3dc8b684500"
@@ -177,7 +177,7 @@
     "revision": "b3b2cf27f33e71438ebe46934900b1153901c6f2"
   },
   "ledger": {
-    "revision": "1050a25df55a62878102d10e524b5184b316b7ad"
+    "revision": "1f864fb2bf6a87fe1b48545cc6adc6d23090adf7"
   },
   "llvm": {
     "revision": "e9948edc41e9e5869af99dddb2b5ff5cc5581af6"
@@ -330,7 +330,7 @@
     "revision": "391803ed80081b483d7ef3a6a412b0fb4d335329"
   },
   "v": {
-    "revision": "1c713c83b69aa6e186e4a8b0879a2d2e2488f042"
+    "revision": "607138c7a04d0515fb359df0d4a69701fb30a7e9"
   },
   "vala": {
     "revision": "31a08784cc74b61cb10c5d8314cf8a8aa98aa9a8"
